@@ -126,3 +126,19 @@ button:hover {
   outline-style: solid;
   outline-color: gold;
 }
+.menu2 {
+  width: 30%;
+  background-color: pink;
+  margin-top: 100px;
+  padding-top: 20px;
+  max-width: 340px;
+  max-height: 200px;
+  min-width: 340px;
+  min-height: 200px;
+  box-shadow: 0 0 100px pink;
+  border-radius: 20px;
+  outline-style: ridge; 
+  outline-color: gold;
+  outline-width: 3px;
+  margin: 0.7em auto;
+}

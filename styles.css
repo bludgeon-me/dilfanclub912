@@ -116,6 +116,7 @@ button {
   margin: 1em auto;
   display: block;
   background-color: beige;
+  font-color: black;
 }
 button:hover {
         background-color: beige;
